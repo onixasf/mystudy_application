@@ -67,19 +67,19 @@ To resolve these issues:
 Here are some screenshots of the **MyStudy** app:
 
 ### Home Screen and Quote
-![Home Screen]([path/to/home_screen_image.png](https://github.com/user-attachments/assets/d68819a7-d612-453c-b60e-85ed07da7df7))
+<img src="https://github.com/user-attachments/assets/d68819a7-d612-453c-b60e-85ed07da7df7" width="200" />
 
 ### Setting Subject and Goal Hours
-![Subject List](https://github.com/user-attachments/assets/8cd764eb-c411-46be-bc3b-f8a7e87d8e23)
+<img src="https://github.com/user-attachments/assets/8cd764eb-c411-46be-bc3b-f8a7e87d8e23" width="200" />
 
 ### Subject
-![Subject](https://github.com/user-attachments/assets/a9e7c835-1f0f-4408-8fa8-2a0f485a49ad)
+<img src="https://github.com/user-attachments/assets/a9e7c835-1f0f-4408-8fa8-2a0f485a49ad" width="200" />
 
 ### Add Task
-![Add Task](https://github.com/user-attachments/assets/aaf739b4-ad4b-446a-bdd1-b144dbadbf87)
+<img src="https://github.com/user-attachments/assets/aaf739b4-ad4b-446a-bdd1-b144dbadbf87" width="200" />
 
 ### Timer
-![Timer](https://github.com/user-attachments/assets/a5d3500b-dde2-45f2-add3-7820496ba777)
+<img src="https://github.com/user-attachments/assets/a5d3500b-dde2-45f2-add3-7820496ba777" width="200" />
 
 ---
 ## 🏫 About the Team
