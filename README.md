@@ -82,6 +82,7 @@ Here are some screenshots of the **MyStudy** app:
 <img src="https://github.com/user-attachments/assets/a5d3500b-dde2-45f2-add3-7820496ba777" width="200" />
 
 ---
+
 ## 🏫 About the Team
 **MyStudy** was created by:  
 - **Onixa Shafa Putri Wibowo**  
@@ -96,6 +97,7 @@ https://drive.google.com/file/d/1rWuUvE0y1mVChFMfZPTJIZfi2GKsh6cX/view?usp=shari
 
 Link Apps:
 https://play.google.com/store/apps/details?id=lat.pam.mystudy
+
 ---
 
 **MyStudy** - Your personal study companion!
