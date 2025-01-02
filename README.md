@@ -96,7 +96,6 @@ Link presentasi:
 https://drive.google.com/file/d/1rWuUvE0y1mVChFMfZPTJIZfi2GKsh6cX/view?usp=sharing
 
 Link Apps:
-
 https://play.google.com/store/apps/details?id=lat.pam.mystudy
 
 ---
