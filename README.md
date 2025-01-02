@@ -41,11 +41,6 @@ To resolve these issues:
 
 ---
 
-## 🎨 Customization
-- **Logo and Splash Screen**: The app comes with a pre-designed **logo** and **splash screen** to enhance user experience. Both can be customized to fit your personal or branding preferences.
-
----
-
 ## 📌 How to Use
 1. **Add Subjects**: Create a list of study subjects and set study time goals for each one.
 2. **Add Tasks**: Assign tasks to each subject, complete with deadlines and priorities.
@@ -62,7 +57,7 @@ To resolve these issues:
 
 ---
 
-## 📸 Screenshots
+## 📸 Documentations
 
 Here are some screenshots of the **MyStudy** app:
 
@@ -81,6 +76,8 @@ Here are some screenshots of the **MyStudy** app:
 ### Timer
 <img src="https://github.com/user-attachments/assets/a5d3500b-dde2-45f2-add3-7820496ba777" width="200" />
 
+### Demo Applications
+https://drive.google.com/drive/folders/1lZfra_gPJCOQK74GKXUOdd7pycRhf-3E?usp=drive_link
 ---
 
 ## 🏫 About the Team
