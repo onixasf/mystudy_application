@@ -92,6 +92,9 @@ Here are some screenshots of the **MyStudy** app:
 
 This project is a part of coursework for **PAM (Pengembangan Aplikasi Mobile) - Class D**.
 
+Pitch Deck:
+https://www.canva.com/design/DAGaz7AMjn8/fvXf7cetTB_HuMDxOqebWA/edit?utm_content=DAGaz7AMjn8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Link presentasi:
 https://drive.google.com/file/d/1rWuUvE0y1mVChFMfZPTJIZfi2GKsh6cX/view?usp=sharing
 
