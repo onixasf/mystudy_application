@@ -78,6 +78,7 @@ Here are some screenshots of the **MyStudy** app:
 
 ### Demo Applications
 https://drive.google.com/drive/folders/1lZfra_gPJCOQK74GKXUOdd7pycRhf-3E?usp=drive_link
+
 ---
 
 ## 🏫 About the Team
